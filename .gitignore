@@ -1,8 +1,70 @@
-/Dataset
-/data
-.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
 .venv/
 
-telegram_bot/env
-telegram_bot/*.ipynb
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Database files
+*.sqlite3
+*.db
+
+# Media and static files
+media/
+static/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Mypy cache
+.mypy_cache/
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Dependency directories
+lib/
+libs/
+telegram_bot/__pycache__/
