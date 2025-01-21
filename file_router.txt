@@ -1,0 +1,3 @@
+# ФАЙЛ ДЛЯ ЗАПИСИ НЕОБХОДИМЫХ ПУТЕЙ К ФАЙЛАМ
+ENV_PATH="C:\Users\R1\Documents\Raft\.env"
+"C:\Users\vallo\Documents\Raft\.env"

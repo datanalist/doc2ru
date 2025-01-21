@@ -1,0 +1,8 @@
+/Dataset
+/data
+.env
+.venv/
+
+telegram_bot/env
+telegram_bot/*.ipynb
+
